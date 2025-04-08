@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Engineer
 -------------------------
 
-Hi! I'm a Computer Science student passionate about building real-world tech solutions. I enjoy working on full-stack web apps, database systems, and exploring AI concepts. Most of my projects are built using Python, C, JavaScript, and SQL. Always learning, always building — feel free to check out my repositories!
+Hi! I'm a Computer Science student passionate about building real-world tech solutions. I enjoy working on full-stack web apps, database systems, and exploring AI concepts. Most of my projects are built using Python, C, HTML/CSS, JavaScript, and SQL. Always learning, always building — feel free to check out my repositories!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sriharshatejasakalabathula@gmail.com](mailto:sriharshatejasakalabathula@gmail.com)
